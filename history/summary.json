@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-276362972540.europe-west1.run.app.ico",
     "slug": "n8n-la-tribune-production",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 190,
     "timeDay": 135,
     "timeWeek": 173,
@@ -138,21 +138,22 @@
     "url": "https://n8n-app-23859382851.europe-west1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-23859382851.europe-west1.run.app.ico",
     "slug": "n8n-lp-infra-production",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.95%",
     "time": 193,
-    "timeDay": 140,
-    "timeWeek": 187,
+    "timeDay": 174,
+    "timeWeek": 190,
     "timeMonth": 207,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2026-05-22": 396,
       "2026-05-25": 80,
-      "2026-05-27": 728
+      "2026-05-27": 728,
+      "2026-08-03": 0
     }
   }
 ]
