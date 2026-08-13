@@ -138,23 +138,23 @@
     "url": "https://n8n-app-23859382851.europe-west1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-23859382851.europe-west1.run.app.ico",
     "slug": "n8n-lp-infra-production",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.91%",
     "time": 195,
-    "timeDay": 238,
-    "timeWeek": 206,
-    "timeMonth": 205,
+    "timeDay": 210,
+    "timeWeek": 200,
+    "timeMonth": 204,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2026-05-22": 396,
       "2026-05-25": 80,
       "2026-05-27": 728,
       "2026-08-03": 102,
-      "2026-08-13": 0
+      "2026-08-13": 96
     }
   }
 ]
