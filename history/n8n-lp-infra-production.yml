@@ -1,7 +1,7 @@
 url: https://n8n-app-23859382851.europe-west1.run.app
-status: up
-code: 200
-responseTime: 224
-lastUpdated: 2026-08-24T23:14:59.867Z
+status: down
+code: 500
+responseTime: 101
+lastUpdated: 2026-08-25T17:52:44.444Z
 startTime: 2026-05-15T20:11:07.498Z
 generator: Upptime <https://github.com/upptime/upptime>
